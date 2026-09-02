@@ -4,7 +4,7 @@ Ingénieur en systèmes d'information, basé à Montréal. Je travaille depuis q
  
 Mon parcours s'est construit dans le secteur public — ministères, direction nationale des systèmes d'information, agence nationale de cybersécurité — sur des systèmes où une erreur d'architecture ou une faille se paie cher : interface de programmation reliant une banque centrale à un trésor public, systèmes de paiement électronique, gouvernance de la sécurité de l'information à l'échelle d'un ministère.
  
-Je poursuis actuellement une maîtrise en informatique, cheminement cybersécurité, à l'Université de Sherbrooke, campus de Longueuil. Diplomation prévue en avril 2027.
+Je poursuis actuellement une maîtrise en informatique, cheminement cybersécurité, à l'Université de Sherbrooke, campus de Longueuil.
  
 ## Ce sur quoi je travaille
  
